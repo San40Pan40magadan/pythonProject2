@@ -9,4 +9,3 @@ def test(a, b):
 test(10, 20)
 test(1, 15)
 test(40, 150)
-test(40, -150)
